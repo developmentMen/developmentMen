@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <a href="https://github.com/developmentMen/pythoniando">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
